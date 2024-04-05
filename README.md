@@ -1,4 +1,4 @@
-<h1>JavaPostHub Project</h1>
+<h1>Ecommerce Events Project</h1>
 <br/>
 <h2>Project Architecture</h2>
 
@@ -8,6 +8,13 @@
 
 -Java
 
--Spring
+-SpringBoot
 
--MongoDB
+-PostgreSQL
+
+-H2
+
+<h2>Run the project step by step</h2>
+1. Clone the repository
+
+2. Postman
