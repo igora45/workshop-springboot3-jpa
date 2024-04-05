@@ -16,5 +16,5 @@
 
 <h2>Run the project step by step</h2>
 1. Clone the repository
-
-2. Postman
+<br/>
+2. Download Postman
